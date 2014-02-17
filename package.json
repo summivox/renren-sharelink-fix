@@ -1,16 +1,16 @@
 {"name": "renren-sharelink-fix"
 ,"description": "Fix renren.com share links in notifications"
 ,"version": "0.1.0"
-,"homepage": "https://github.com/smilekzs/renren-sharelink-fix"
+,"homepage": "https://github.com/summivox/renren-sharelink-fix"
 ,"author":
-  {"name": "smilekzs"
+  {"name": "summivox"
   }
 ,"repository":
   {"type": "git"
-  ,"url": "git://github.com/smilekzs/renren-sharelink-fix.git"
+  ,"url": "git://github.com/summivox/renren-sharelink-fix.git"
   }
 ,"bugs":
-  {"url": "https://github.com/smilekzs/renren-sharelink-fix/issues"
+  {"url": "https://github.com/summivox/renren-sharelink-fix/issues"
   }
 ,"licenses":
   [ {"type": "MIT"
